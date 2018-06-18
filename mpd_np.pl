@@ -15,6 +15,12 @@ print << "EOF"
 <br><br>
 <center>Nu spelas: <b>$mpd_np</b></center> <br><br>
 <center><a href="http://192.168.10.100:9998/japh.mp3"><img src="./deckard.png"></a></center">
+<form action="./test.pl">
+ <input type="submit" value="Playlist">
+</form>
+
+
+
 <br>
 EOF
 
